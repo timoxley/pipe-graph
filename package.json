@@ -1,0 +1,21 @@
+{
+  "name": "pipe-graph",
+  "version": "1.0.0",
+  "description": "Generate graphs of your streams.",
+  "main": "index.js",
+  "scripts": {
+    "test": "tape test/*.js"
+  },
+  "author": "Tim Oxley",
+  "license": "MIT",
+  "dependencies": {
+    "graphs": "^2.0.0"
+  },
+  "devDependencies": {
+    "tape": "^2.13.3",
+    "through2": "^0.5.1"
+  },
+  "directories": {
+    "test": "test"
+  }
+}
