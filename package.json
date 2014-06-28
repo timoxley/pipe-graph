@@ -17,5 +17,13 @@
   },
   "directories": {
     "test": "test"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/timoxley/pipe-graph.git"
+  },
+  "bugs": {
+    "url": "https://github.com/timoxley/pipe-graph/issues"
+  },
+  "homepage": "https://github.com/timoxley/pipe-graph"
 }
